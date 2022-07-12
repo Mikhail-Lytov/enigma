@@ -1,0 +1,9 @@
+for i in range(ysl):
+                pluging.append(sip(alph,plugboard,str(text[i])))
+'''!()-[]{};?@#$%:'",./^&amp;*_◦ +1234567890AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz'''
+alph = 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ'
+    reflector1 = 'СЗЭЧХЮЖЁФПЫВНИКТЛШМРЩДУЙЬГЯЪЕАБОЦ' #here you can put any key as you want
+    rot1 = 'ИДЦБШЧРЮФУЕВСОЙМПНТЁЯАГЬЩЗЫКЭЖХЪЛ' #here you can put any key as you want
+    rot2 = 'ДШЗВГЬПЕЁЙЫИЯЦЭФЮСХАОЧНБУКРТМЩЛЪЖ' #here you can put any key as you want
+    rot3 = 'СЪВЩДФЙБЧЫПХМЦЖКРЁУИГЗОТАНЯЭЮШЬЛЕ' #here you can put any key as you want
+    plugboard = 'ЯЬВРДЁЕЖТИЙКЛШНОПГСЗХФУЦЧМЩЪЮБЭЫА' #here you can put any key as you want
